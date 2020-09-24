@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+.container {
+    background-color: yellowgreen;
+    height: 1000px;
+}
+
+.box {
+    background-color:purple;
+    width: 100%;
+    height: 100%;
+    color: white;
+    padding: 12px;
+}
